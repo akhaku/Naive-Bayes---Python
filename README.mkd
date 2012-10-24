@@ -1,0 +1,10 @@
+# Naive Bayes - Python #
+
+A Python implementation of the naive-Bayes algorithm. Written for an Algorithms
+class project, and intended to be run on the Tufts Linux servers, but can be
+adapted given time and effort. A custom implementation of hashtables is used
+here since it was part of the requirements, but using native python dicts is
+better performance-wise. 
+The results will be printed to output.csv in the following order:
+n,learn_time,test_time,accuracy
+
